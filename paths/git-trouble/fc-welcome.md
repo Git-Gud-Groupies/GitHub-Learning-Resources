@@ -3,14 +3,14 @@ layout: simple-class
 header:
   overlay_image: cover.jpeg
   overlay_filter: rgba(46, 129, 200, 0.6)
-title: Welcome
+title: Welcome to Git Out Of Trouble
 permalink: /git-trouble/
-next-page: /git-trouble/01
+next-page: /git-trouble/git-set-up
 toc: true
 sidebar:
   nav: "advanced"
 main-content: |  
-  It isn't uncommon to make a mistake while working with Git, but don't fret, everyone does it. Getting out of a mess, can be just as easy as getting into one if you know the tools at your disposal to save your project and prevent public embarrassment. This course outlines the different commands you can use to get out of almost **any** sticky situation.
+  It isn’t uncommon to make a mistake while working with Git, but don’t fret, everyone does it. Getting out of a mess can be just as easy as getting into one, and this course is here to help. It outlines the different commands you can use to get out of almost **any** sticky situation helping you to save your project and prevent embarrassment.
 
   ### Thanks!
   Before we begin, the GitHub Training team would like to thank the following community contributors for their work in creating meaningful content that inspired this course:

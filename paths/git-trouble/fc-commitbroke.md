@@ -3,9 +3,9 @@ layout: simple-class
 header:
   overlay_image: cover.jpeg
   overlay_filter: rgba(46, 129, 200, 0.6)
-title: Just Make it Go Away!
-permalink: /git-trouble/07
-next-page: /git-trouble/02
+title: Just Make it Go Away - Breaking Things With Git
+permalink: /git-trouble/breaking-things-with-git
+next-page: /git-trouble/git-scenarios
 facilitator: false
 sidebar:
   nav: "advanced"
@@ -13,7 +13,7 @@ main-content: |
 
   Your well intentioned branch was supposed to introduce that awesome new feature, but after making a few commits, things aren't going as planned!   
 
-  Keep in mind, all exercises expect you to have run the script to create files using the scripts found on the [Set Up Your Environment](/on-demand/git-trouble/01) page.
+  Keep in mind, all exercises expect you to have run the script to create files using the scripts found on the [Set Up Your Environment]({{site.baseurl}}/git-set-up) page.
 pushed: |
     This is what makes Git awesome! You can try new things and, when they don't work out, just get rid of them. First, ask yourself:
 
@@ -101,8 +101,8 @@ tell-me-why: |
      - 90 days: 'Reachable' objects, aka commits or modifications that were made to a branch that still exists.
 
   ## Reset
-  For more information about `reset`, check out the 'Tell me why' section in the [Too Many (small) Commits](/on-demand/git-trouble/03) scenario.
+  For more information about `reset`, check out the 'Tell me why' section in the [Too Many (small) Commits]({{site.baseurl}}/too-many-commits) scenario.
 
   ## Cherry-pick
-  For more information about `cherry-pick`, check out the 'Tell me why' section in the [Committed to the Wrong Branch!](/on-demand/git-trouble/05) scenario.  
+  For more information about `cherry-pick`, check out the 'Tell me why' section in the [Committed to the Wrong Branch!]({{site.baseurl}}git-commit-wrong-branch) scenario.  
 ---

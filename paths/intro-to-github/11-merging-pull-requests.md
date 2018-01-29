@@ -1,23 +1,26 @@
 ---
+lang: en
+ref: intro-to-github-11
 layout: simple-class
+help: https://github.com/githubschool/open-enrollment-classes-introduction-to-github/issues/new?title=I%20need%20help&body=Describe%20what%20you%20need%20help%20with%20here.&labels=Help%20Wanted
 header:
   overlay_image: cover.jpeg
   overlay_filter: rgba(46, 129, 200, 0.6)
-title: Merge Pull Requests
-permalink: /intro-to-github/11/
-next-page: /intro-to-github/12/
+title: Merge Your Pull Request
+permalink: /intro-to-github/merge-pull-request
+next-page: /intro-to-github/you-completed-github-flow
 sidebar:
   nav: "intro-nav"
 main-content:
   includes:
   - activity/intro-to-github/06-merge-a-pr.md
-show-me-how: "images/gifs/intro/merge-intro.gif"
+show-me-how:
 tell-me-why: |
   ## Merge Explained
 
   When you merge your branch, you are taking the content and history from the branch you created and adding it to the content and history of the `master` branch.
 
-  ![Merge visual](/on-demand/images/merge-visual.jpg){: .align-center}
+  ![Merge visual](../images/merge-visual.jpg){: .align-center}
 
   ### Tips for Merging with Teams
 

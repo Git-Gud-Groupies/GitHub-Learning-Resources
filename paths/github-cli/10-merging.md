@@ -1,18 +1,19 @@
 ---
 layout: simple-class
+help: https://github.com/githubschool/on-demand-github-pages/issues/new?title=I%20need%20help&body=Describe%20what%20you%20need%20help%20with%20here.&labels=Help%20Wanted
 header:
   overlay_image: cover.jpeg
   overlay_filter: rgba(46, 129, 200, 0.6)
-title: Merge Your Pull Request
-permalink: /github-cli/10
-next-page: /github-cli/11
+title: Merge Your Pull Request on GitHub
+permalink: /github-cli/merge-pull-request-github
+next-page: /github-cli/view-github-pages-site
 facilitator: false
 sidebar:
   nav: "github-cli"
 main-content:
   includes:
     - activity/github-desktop/07-merge-pull-request.md
-show-me-how: images/gifs/github-cli/merge-pull-request.gif
+show-me-how:
 tell-me-why: |
   ## Why No Collaboration?
 

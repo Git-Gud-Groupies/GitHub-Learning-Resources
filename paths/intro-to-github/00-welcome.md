@@ -1,11 +1,14 @@
 ---
+lang: en
+ref: intro-to-github-00
 layout: simple-class
+help: https://github.com/githubschool/open-enrollment-classes-introduction-to-github/issues/new?title=I%20need%20help&body=Describe%20what%20you%20need%20help%20with%20here.&labels=Help%20Wanted
 header:
   overlay_image: cover.jpeg
   overlay_filter: rgba(46, 129, 200, 0.6)
-title: Welcome
+title: Introduction to GitHub
 permalink: /intro-to-github/
-next-page: /intro-to-github/01/
+next-page: /intro-to-github/create-github-account
 sidebar:
   nav: "intro-nav"
 main-content: |
@@ -20,15 +23,17 @@ main-content: |
   - Collaborate with new friends on a fun project
   - Add your pin to the map!
 
-  <div id="map"></div>
+  <div id="map" style="height: 400px;" class="width-full my-3"></div>
 
-  **Are you ready?** Click the continue button below to see what's next.
+  **Are you ready?** Click the **Continue** button below to see what's next.
 
 show-me-how:
   includes:
     - intro-video.html
 tell-me-why: |
   ## What is GitHub?
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/w3jLJU7DT5E?ecver=1" frameborder="0" allowfullscreen></iframe>
 
   We are glad you asked! Many people stumble onto GitHub through one of the millions of Open Source projects it holds or because their employer or professor is using it. Why do these projects use GitHub?
 

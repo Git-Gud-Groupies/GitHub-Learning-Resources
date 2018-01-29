@@ -1,11 +1,14 @@
 ---
+lang: en
+ref: intro-to-github-10
 layout: simple-class
+help: https://github.com/githubschool/open-enrollment-classes-introduction-to-github/issues/new?title=I%20need%20help&body=Describe%20what%20you%20need%20help%20with%20here.&labels=Help%20Wanted
 header:
   overlay_image: cover.jpeg
   overlay_filter: rgba(46, 129, 200, 0.6)
-title: Edit Files
-permalink: /intro-to-github/10/
-next-page: /intro-to-github/11/
+title: Edit Files on GitHub
+permalink: /intro-to-github/edit-files-on-github
+next-page: /intro-to-github/merge-pull-request
 sidebar:
   nav: "intro-nav"
 main-content: |
@@ -21,6 +24,7 @@ main-content: |
 troubleshooting:
   includes:
     - help-build-fail.md
+    - help-gh101-common.md
     - help-other-things.md
 show-me-how:
 tell-me-why: |
